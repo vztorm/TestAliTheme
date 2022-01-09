@@ -31,7 +31,8 @@
     "manifest": {
         "author": "Skyluf",
         "name": "Purple Glass",
-        "version": "1.0"
+        "version": "1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/skyluf\/Purple-Glass\/main\/Purple%20Glass.json"
     },
     "simple_colors": {
         "accent": -1052689,
