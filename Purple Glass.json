@@ -1,7 +1,7 @@
 {
     "background": {
         "alpha": 255,
-        "url": "https:\/\/i.imgur.com\/kbHA5Sz.png",
+        "url": "https:\/\/i.imgur.com\/8XBfFmL.png",
         "blur_radius": 1,
         "overlay_alpha": 20
     },
@@ -29,10 +29,10 @@
     },
     "fonts": {},
     "manifest": {
-        "author": "Skyluf",
-        "name": "Purple Glass",
+        "author": "VZtorm",
+        "name": "My theme",
         "version": "1.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/skyluf\/Purple-Glass\/main\/Purple%20Glass.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/vztorm\/TestAliTheme\/main\/Purple%20Glass.json"
     },
     "simple_colors": {
         "accent": -1052689,
